@@ -1,5 +1,7 @@
 # Music Lab
 
+**[Open Music Lab →](https://caeled.github.io/music-lab/)**
+
 A small, framework-free music learning studio. Play a two-octave piano, see the patterns behind scales and chords, inspect MIDI, and explore the shape of sound.
 
 ## Open it
